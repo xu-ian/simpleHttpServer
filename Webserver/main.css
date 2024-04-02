@@ -1,0 +1,12 @@
+.row {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.img{
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-image: url("./testpic.png");
+  min-width: 100px;
+  min-height: 100px;
+}
